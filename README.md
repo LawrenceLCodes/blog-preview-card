@@ -31,8 +31,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/LawrenceLCodes/blog-preview-card)
+- Live Site URL: [Live Site](https://lawrencelcodes.github.io/blog-preview-card/)
 
 ## My process
 
