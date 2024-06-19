@@ -47,6 +47,5 @@ I continued to practice and further strengthen my comfort with HTML and CSS.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Lawrence Lee](https://www.lawrencelcodes.dev/)
+- Frontend Mentor - [@LawrenceLCodes](https://www.frontendmentor.io/profile/LawrenceLCodes)
