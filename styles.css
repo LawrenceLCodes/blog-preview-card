@@ -12,7 +12,7 @@ body {
   background-color: var(--yellow);
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
-  min-height: 100vh;
+  max-height: 100vh;
 
   p {
     font-size: 16px;
@@ -28,8 +28,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 5% auto;
-  max-width: 400px;
+  margin: 100px auto;
+  max-width: 350px;
   padding: 20px;
 }
 
@@ -80,6 +80,7 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
+  margin: 20px;
   text-align: center;
 
   a {
@@ -88,5 +89,28 @@ body {
 }
 
 /* Media Queries */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 480px) {
+  body {
+    margin: 20px;
+
+    p {
+      font-size: 14px;
+    }
+  }
+
+  .card-container {
+    margin: 50px auto;
+    max-width: 300px;
+  }
+
+  .card-category {
+    h2 {
+      font-size: 16px;
+      max-width: 80px;
+    }
+  }
+
+  .card-title {
+    font-size: 20px;
+  }
 }
